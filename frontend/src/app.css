@@ -15,7 +15,7 @@ input::-webkit-inner-spin-button {
 .header{
   height: 46vh;
   width: 100%;
-  background-image: url('C:\Users\HadZ\OneDrive\Desktop\heartScript\frontend\public\heart.png');
+  background-image: url('\public\heart.png');
   background-size: cover;       /* Fills container while keeping aspect ratio */
   background-position: center;  /* Centers the main focus of the image */
   background-repeat: no-repeat; /* Prevents tiling */
