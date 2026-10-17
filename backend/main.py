@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel,Field,EmailStr
-from predictor import predict
+from backend.predictor import predict
 from typing import Annotated
 from fastapi.middleware.cors import CORSMiddleware
 
